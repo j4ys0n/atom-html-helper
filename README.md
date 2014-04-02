@@ -1,5 +1,9 @@
-# html-helper package
+# HTML Helper package
 
-A short description of your package.
+Initial version. This adds the ability to complete HTML tags by pressing "cmd-opt-."
 
-![A screenshot of your spankin' package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Currently, this only evaluates the line that the cursor is on.
+
+Next steps will include multi-line evaluation and open/close tag pair highlighting.
+
+Place this in your Atom packages directory: ~/.atom/packages/
