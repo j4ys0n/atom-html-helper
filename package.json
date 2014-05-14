@@ -3,7 +3,7 @@
   "main": "./lib/html-helper",
   "version": "0.1.1",
   "description": "Helps complete your HTML tags.",
-  "repository": "https://github.com/j4ys0n/html-helper",
+  "repository": "https://github.com/j4ys0n/atom-html-helper",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
