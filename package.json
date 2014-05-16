@@ -1,7 +1,7 @@
 {
   "name": "html-helper",
   "main": "./lib/html-helper",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Helps complete your HTML tags.",
   "repository": "https://github.com/j4ys0n/atom-html-helper",
   "license": "MIT",
